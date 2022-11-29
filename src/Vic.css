@@ -1,0 +1,110 @@
+.in{
+    width: 100%;
+    background:linear-gradient(rgb(5, 5, 55), rgb(15, 15, 104),rgb(17, 17, 168), rgb(11, 11, 212));  
+    color: white;
+    padding: 30px;
+    height: fit-content;
+    
+}
+.bord{
+    margin-left: 40px;
+  
+    }
+    .God{
+        border: 5px solid;
+        width: fit-content;
+        height: auto;
+        padding: 10px;
+        border-radius: 5px;
+ }
+
+.po{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    position: relative;
+    }
+    .p :before
+    {
+        content: '';
+       background: linear-gradient(white 20deg,transparent 120deg);
+       width: 100%;
+       height: 100%;
+       position: absolute;
+
+    }
+input:hover{
+    color: rgb(12, 15, 93);
+    font-size: large;
+    background: white;
+    font-weight: 500;
+    border: solid 2px rgb(18, 114, 174);
+    
+}
+button:hover{
+    color: blue;
+    background: white;
+    font-size: large;
+    font-weight: 530;
+}
+input{
+    background: no-repeat;
+    color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 10px;
+    width: 400px;
+}
+select{
+    color: rgb(8, 5, 102);
+    margin-left: 10px;
+}
+button{
+    background: rgb(49, 49, 211);
+    color: white;
+    border-radius: 10px;
+    border: skyblue;
+    padding: 5px;
+}
+h3{
+    font-size: 1.7cm;
+}
+p{
+    font-size: 1cm;
+}
+h6{
+    font-size: 1.2cm;
+}
+h5{
+    font-size: 1.3cm;
+}
+label{
+    font-size: 0.7cm;
+}
+@media (max-width:500px){
+    h3{
+        font-size: 1.4cm;
+    }
+    p{
+        font-size: 0.7cm;
+    }
+    h6{
+        font-size: 0.9cm;
+    }
+    h5{
+        font-size: 1cm;
+    }
+    label{
+        font-size: 0.5cm;
+    }
+    .bord{
+        margin-left: 18px;
+    }
+    input{
+        padding: 6px;
+        width: 290px;
+    }
+
+}
