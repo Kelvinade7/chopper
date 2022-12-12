@@ -19,9 +19,7 @@ function App() {
     <p style={{color :'black',fontSize:'larger'}}>Website Designed By WMA</p>
 
   </footer>
-  <div class='po'>
-    
-  </div>
+  
      
       
     

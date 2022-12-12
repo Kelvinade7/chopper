@@ -83,28 +83,32 @@ h5{
 label{
     font-size: 0.7cm;
 }
+
 @media (max-width:500px){
     h3{
-        font-size: 1.4cm;
+        font-size: 1.1cm;
     }
     p{
-        font-size: 0.7cm;
-    }
-    h6{
-        font-size: 0.9cm;
-    }
-    h5{
-        font-size: 1cm;
-    }
-    label{
         font-size: 0.5cm;
     }
+    h6{
+        font-size: 0.5cm;
+    }
+    h5{
+        font-size: 0.8cm;
+    }
+    label{
+        font-size: 0.3cm;
+    }
     .bord{
-        margin-left: 18px;
+        margin-left: 2px;
     }
     input{
-        padding: 6px;
-        width: 290px;
+        padding: 4px;
+        width: 220px;
+    }
+    .God{
+        border: 3px solid;
     }
 
 }
