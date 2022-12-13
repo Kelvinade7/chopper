@@ -35,7 +35,8 @@ return ()=>clearInterval(ball) ;
             <p style={{fontSize :'large'}}>Don't Have An Account Sign Up Below</p><br/>
             <Link to='/'><button>Sign Up</button></Link>
           </form>
-          </div>
+          </div><br/><br/><br/>
+          <p style={{color :'black',fontSize:'larger',textAlign:'center'}}>Website Designed By WMA</p>
 
         </div>
     )

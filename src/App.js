@@ -16,7 +16,7 @@ function App() {
     <Route path="/next" element={<Pass/>}/>
   </Routes>
   <footer style={{textAlign :'center'}}>
-    <p style={{color :'black',fontSize:'larger'}}>Website Designed By WMA</p>
+   
 
   </footer>
   

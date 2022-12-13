@@ -37,7 +37,8 @@ function Pass(){
            </div>
             <br/><br/>
             <Link to={'/'}><h3 style={{fontSize:'0.5cm'}}>Back to Sign up Page</h3></Link>
-
+         <br/><br/><br/>
+         <p style={{color :'black',fontSize:'larger',textAlign:'center'}}>Website Designed By WMA</p>
 
         </div>
     )

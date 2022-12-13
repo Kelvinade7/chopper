@@ -54,9 +54,12 @@ return(
             <Link disabled={pass} to={'/next'}><button>Create Account</button></Link>
            
 
-        
+          
       </form>
+    
+     
       </div>
+      <br/> <p style={{color :'black',fontSize:'larger',textAlign:'center'}}>Website Designed By WMA</p>
 
     </div>
 )

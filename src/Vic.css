@@ -98,14 +98,14 @@ label{
         font-size: 0.8cm;
     }
     label{
-        font-size: 0.3cm;
+        font-size: 0.6cm;
     }
     .bord{
         margin-left: 2px;
     }
     input{
         padding:3px;
-        width: 243px;
+        width: 250px;
     }
     .God{
         border: 3px solid;
